@@ -58,9 +58,9 @@ require 'exchange_rate'
 * ``` TaiwanBank.Exchange_TW_TO_CN(number Money, bool IsCash) ``` - Calculate Taiwan Dollar to RMB , IsCash is using cash to calculate or not, default is true.
 * ``` TaiwanBank.Exchange_CN_TO_TW(number Money, bool IsCash) ``` - Calculate RMB to Taiwan Dollar , IsCash is using cash to calculate or not, default is true.
 
-TaiwanBank can be changed to ESun or ExchangeRate
-TaiwanBank : https://rate.bot.com.tw/xrt?Lang=zh-TW
-ESun: https://www.esunbank.com.tw/bank/personal/deposit/rate/forex/foreign-exchange-rates
+TaiwanBank can be changed to ESun or ExchangeRate  
+TaiwanBank : https://rate.bot.com.tw/xrt?Lang=zh-TW  
+ESun: https://www.esunbank.com.tw/bank/personal/deposit/rate/forex/foreign-exchange-rates  
 ExchangeRate: return back of the lowest cash_sell_rate
 
 
